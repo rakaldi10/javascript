@@ -1,0 +1,13 @@
+var number1 = 10;
+var string1 = "10";
+var boolean1 = true;
+var null1 = null;
+var undefined1;
+var angkaFavorite = [10,11,64,7];
+console.log(number1);
+console.log(string1);
+console.log(boolean1);
+console.log(null1);
+console.log(undefined1);
+console.log(angkaFavorite);
+console.log(angkaFavorite[0]);
